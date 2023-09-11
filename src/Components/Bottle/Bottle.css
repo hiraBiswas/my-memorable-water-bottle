@@ -1,0 +1,16 @@
+/* .bottle-container{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+} */
+
+.bottle{
+    border: 5px solid gray;
+    margin : 20px;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.bottle img{
+    width: 200px;
+}
